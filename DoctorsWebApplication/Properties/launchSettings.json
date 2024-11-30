@@ -1,0 +1,24 @@
+{
+    "profiles": {
+        "http": {
+            "commandName": "Project",
+            "workingDirectory": "C:\\[Solutions]\\[2023DoctorsWebApplication]\\DoctorsWebApplication - Using Kestrel\\DoctorsWebApplication",
+            "launchBrowser": true,
+            "environmentVariables": {
+                "ASPNETCORE_ENVIRONMENT": "Development"
+            },
+            "dotnetRunMessages": true,
+            "applicationUrl": "http://localhost:5130"
+        },
+        "https": {
+            "commandName": "Project",
+            "workingDirectory": "C:\\[Solutions]\\[2023DoctorsWebApplication]\\DoctorsWebApplication - Using Kestrel\\DoctorsWebApplication",
+            "launchBrowser": true,
+            "environmentVariables": {
+                "ASPNETCORE_ENVIRONMENT": "Development"
+            },
+            "dotnetRunMessages": true,
+            "applicationUrl": "https://localhost:7106;http://localhost:5130"
+        }
+    }
+}
