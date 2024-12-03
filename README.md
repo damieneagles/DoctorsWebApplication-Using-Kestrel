@@ -7,3 +7,6 @@ Needs an IIS website called DoctorWebSite using https with the (IIS Express Deve
 Installs an SQL Server database, whereever it can find a localDB.
 
 To be used as a reference application as it is not quite polished so far, it still needs some more work to be useful to business.
+
+See Screenshot RE SSL and remember IIS and IIS Express are two different products.
+![IIS DoctorsWebSite](https://github.com/user-attachments/assets/539fe805-c7f6-4adc-b00f-44d88393b2b8)
